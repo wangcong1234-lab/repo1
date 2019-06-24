@@ -11,5 +11,6 @@ public class Main {
         System.out.println("这是我的工作目录");
         System.out.println("进行公司的项目开发");
         System.out.println(1111111111);
+        System.out.println(22222222);
     }
 }
